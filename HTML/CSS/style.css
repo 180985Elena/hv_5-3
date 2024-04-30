@@ -1,0 +1,18 @@
+
+section {
+    display: flex;
+
+}
+article {
+    flex-basis: 500px;
+    height: 10px;
+    margin: 20px;
+}
+P {
+    line-height: 35px;
+    color: darkgray;
+}
+hr{
+    color: white;
+}
+
